@@ -1,7 +1,11 @@
-# Look-Alike Website Detector — Backend API
+# Team 404 Not Found — Look-Alike Website Detector Backend API
+
+> **Team**: 404 Not Found  
+> **Track**: Track B  
+> **Repository**: [yusufcodes-india/404_Not_found-Track-B-](https://github.com/yusufcodes-india/404_Not_found-Track-B-)
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new)
-[![GitHub](https://img.shields.io/badge/GitHub-aliraza7878%2Flookalike--detector-blue?logo=github)](https://github.com/aliraza7878/lookalike-detector)
+[![GitHub](https://img.shields.io/badge/GitHub-yusufcodes--india%2F404__Not__found--Track--B--blue?logo=github)](https://github.com/yusufcodes-india/404_Not_found-Track-B-)
 
 An intelligent backend protecting everyday citizens, bank customers, and government portal users from phishing scams, typosquatting, and deceptive look-alike domains. Combines high-speed deterministic rules with Google Gemma 4 AI for plain-language explanations in regional languages and second-opinion ambiguity resolution.
 
@@ -85,7 +89,8 @@ An intelligent backend protecting everyday citizens, bank customers, and governm
 
 ### 1. Clone & Enter Project Directory
 ```bash
-cd lookalike-detector
+git clone https://github.com/yusufcodes-india/404_Not_found-Track-B-.git
+cd 404_Not_found-Track-B-/backend
 ```
 
 ### 2. Configure Environment (`.env`)

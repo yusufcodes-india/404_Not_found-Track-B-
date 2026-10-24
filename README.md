@@ -1,8 +1,13 @@
-# 404_Not_found - Track B: Look-Alike Website Detector
+# Team: 404 Not Found — Track B: Look-Alike Website Detector
+
+> **Team Name**: 404 Not Found  
+> **Track**: Track B (Look-Alike Website Detector)  
+> **Repository**: [yusufcodes-india/404_Not_found-Track-B-](https://github.com/yusufcodes-india/404_Not_found-Track-B-)
 
 A comprehensive security solution designed to protect everyday citizens, banking customers, and government portal users from deceptive phishing websites, typosquats, and malicious clones.
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new)
+[![GitHub](https://img.shields.io/badge/GitHub-yusufcodes--india%2F404__Not__found--Track--B--blue?logo=github)](https://github.com/yusufcodes-india/404_Not_found-Track-B-)
 
 ---
 

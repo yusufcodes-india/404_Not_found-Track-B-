@@ -122,8 +122,8 @@ async def lifespan(app: FastAPI):
 # ---------------------------------------------------------------------------
 
 app = FastAPI(
-    title="Look-Alike Website Detector",
-    description="Backend API for detecting phishing and look-alike websites, "
+    title="404 Not Found — Look-Alike Website Detector",
+    description="Backend API by Team 404 Not Found (Track B) for detecting phishing and look-alike websites, "
                 "protecting bank customers and government portal users.",
     version="1.0.0",
     lifespan=lifespan,
