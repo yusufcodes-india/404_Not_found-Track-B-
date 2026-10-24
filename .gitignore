@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+.env
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Testing / Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Node (for extension/frontend if added)
+node_modules/
+dist/
+.output/

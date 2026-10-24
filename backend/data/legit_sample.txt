@@ -1,0 +1,58 @@
+# Legitimate Domain Samples for False Positive Testing
+# Format: one URL or domain per line (comments starting with # are ignored)
+
+# Official Verified Banks
+https://onlinesbi.sbi
+https://sbi.co.in
+https://bank.sbi
+https://hdfcbank.com
+https://netbanking.hdfcbank.com
+https://icicibank.com
+https://axisbank.com
+https://kotak.com
+https://kotak811.com
+https://bankofbaroda.in
+https://canarabank.com
+https://unionbankofindia.co.in
+https://pnbindia.in
+https://idbibank.in
+https://yesbank.in
+https://federalbank.co.in
+
+# Official Government Portals
+https://incometax.gov.in
+https://uidai.gov.in
+https://myaadhaar.uidai.gov.in
+https://digilocker.gov.in
+https://epfindia.gov.in
+https://gst.gov.in
+https://irctc.co.in
+https://passportindia.gov.in
+https://rbi.org.in
+https://sebi.gov.in
+https://indiapost.gov.in
+https://nvsp.in
+
+# Official UPI / Fintech / Wallets
+https://paytm.com
+https://phonepe.com
+https://pay.google.com
+https://bhimupi.org.in
+https://razorpay.com
+https://cred.club
+https://zerodha.com
+https://groww.in
+
+# Legitimate External News & Reference Sites (Must NOT flag as danger)
+https://ndtv.com/business/sbi-share-price-today
+https://economictimes.indiatimes.com/wealth/banking/hdfc-bank-fixed-deposit-rates
+https://thehindu.com/news/national/rbi-monetary-policy
+https://indianexpress.com/article/business/banking-and-finance/icici-bank-quarterly-profit
+https://livemint.com/market/stock-market-news/axis-bank-q3-results
+https://wikipedia.org/wiki/State_Bank_of_India
+https://google.com
+https://github.com
+https://stackoverflow.com
+https://microsoft.com
+https://apple.com
+https://amazon.in

@@ -1,0 +1,58 @@
+# Phishing and Look-Alike Domain Samples for Evaluation
+# Format: one URL or domain per line (comments starting with # are ignored)
+
+# SBI Typosquats & Lookalikes
+http://onlinesbl.sbi
+http://onllnesbi.sbi
+http://sbi-online-banking.com
+http://sbi-kyc-verification.xyz
+http://netbanking-sbi-portal.top
+http://sbi.login-portal-auth.com
+http://sbl.co.in
+http://onlinesbi.co.in.scam.click
+
+# HDFC Lookalikes
+http://hdfcbamk.com
+http://hdfc-netbanking-login.net
+http://hdfcbank.security-update.xyz
+http://hdfc-reward-points.click
+http://hdfc.customer-care-support.top
+
+# ICICI Lookalikes
+http://iciclbank.com
+http://icicibank-login-verification.xyz
+http://icici-card-activation.top
+http://icicl.com
+
+# Axis / Kotak / PNB Lookalikes
+http://axlsbank.com
+http://kotak81l.com
+http://k0takbank.com
+http://pnb-online-banking.icu
+http://punjab-national-bank-kyc.buzz
+
+# Payment / UPI Phishing
+http://paytrn.com
+http://paytm-cashback-offer.xyz
+http://phonepe-reward-claim.top
+http://bhim-upi-reward.click
+http://gpay-scratch-card-win.xyz
+http://paytm-kyc-expired.com
+
+# Government Portal Phishing
+http://incometax-gov-refund.com
+http://incometaxindia-efiling.xyz
+http://uidai-aadhar-update.top
+http://myaadhaar-download.click
+http://epfindia-passbook-claim.xyz
+http://gst-portal-login.net
+http://irctc-ticket-refund.click
+http://passport-seva-online.top
+http://pmjay-card-apply.xyz
+
+# Confusables / Homoglyphs / Structural Flags
+http://192.168.1.100/sbi/login.php
+http://secure-login.com@phishingsite.com
+http://sbi-online-customer-support-helpdesk-portal.com
+http://sbibank.rest
+http://aadhaar-gov.in.fakeportal.top

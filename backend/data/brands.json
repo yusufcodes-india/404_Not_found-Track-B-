@@ -1,0 +1,305 @@
+[
+  {
+    "name": "State Bank of India",
+    "category": "bank",
+    "official_domains": ["onlinesbi.sbi", "sbi.co.in", "bank.sbi"],
+    "status": "verified"
+  },
+  {
+    "name": "HDFC Bank",
+    "category": "bank",
+    "official_domains": ["hdfcbank.com", "netbanking.hdfcbank.com"],
+    "status": "verified"
+  },
+  {
+    "name": "ICICI Bank",
+    "category": "bank",
+    "official_domains": ["icicibank.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Punjab National Bank",
+    "category": "bank",
+    "official_domains": ["pnbindia.in", "netpnb.com"],
+    "status": "verified",
+    "todo": "verify netpnb.com domain"
+  },
+  {
+    "name": "Axis Bank",
+    "category": "bank",
+    "official_domains": ["axisbank.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "category": "bank",
+    "official_domains": ["kotak.com", "kotak811.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Bank of Baroda",
+    "category": "bank",
+    "official_domains": ["bankofbaroda.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Canara Bank",
+    "category": "bank",
+    "official_domains": ["canarabank.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Union Bank of India",
+    "category": "bank",
+    "official_domains": ["unionbankofindia.co.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Indian Bank",
+    "category": "bank",
+    "official_domains": ["indianbank.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Bank of India",
+    "category": "bank",
+    "official_domains": ["bankofindia.co.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Central Bank of India",
+    "category": "bank",
+    "official_domains": ["centralbankofindia.co.in"],
+    "status": "verified"
+  },
+  {
+    "name": "IDBI Bank",
+    "category": "bank",
+    "official_domains": ["idbibank.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "category": "bank",
+    "official_domains": ["iob.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Yes Bank",
+    "category": "bank",
+    "official_domains": ["yesbank.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Federal Bank",
+    "category": "bank",
+    "official_domains": ["federalbank.co.in"],
+    "status": "verified"
+  },
+  {
+    "name": "South Indian Bank",
+    "category": "bank",
+    "official_domains": ["southindianbank.com"],
+    "status": "verified"
+  },
+  {
+    "name": "RBL Bank",
+    "category": "bank",
+    "official_domains": ["rblbank.com"],
+    "status": "verified"
+  },
+  {
+    "name": "IndusInd Bank",
+    "category": "bank",
+    "official_domains": ["indusind.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Bandhan Bank",
+    "category": "bank",
+    "official_domains": ["bandhanbank.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Income Tax Department",
+    "category": "government",
+    "official_domains": ["incometax.gov.in", "incometaxindia.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "UIDAI / Aadhaar",
+    "category": "government",
+    "official_domains": ["uidai.gov.in", "myaadhaar.uidai.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "DigiLocker",
+    "category": "government",
+    "official_domains": ["digilocker.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "EPFO",
+    "category": "government",
+    "official_domains": ["epfindia.gov.in", "unifiedportal-mem.epfindia.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "GST Portal",
+    "category": "government",
+    "official_domains": ["gst.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "IRCTC",
+    "category": "government",
+    "official_domains": ["irctc.co.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Passport Seva",
+    "category": "government",
+    "official_domains": ["passportindia.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "e-Courts",
+    "category": "government",
+    "official_domains": ["ecourts.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "National Voter Service Portal",
+    "category": "government",
+    "official_domains": ["nvsp.in"],
+    "status": "verified"
+  },
+  {
+    "name": "PMJAY / Ayushman Bharat",
+    "category": "government",
+    "official_domains": ["pmjay.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Aarogya Setu",
+    "category": "government",
+    "official_domains": ["aarogyasetu.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "India Post",
+    "category": "government",
+    "official_domains": ["indiapost.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Reserve Bank of India",
+    "category": "government",
+    "official_domains": ["rbi.org.in"],
+    "status": "verified"
+  },
+  {
+    "name": "SEBI",
+    "category": "government",
+    "official_domains": ["sebi.gov.in"],
+    "status": "verified"
+  },
+  {
+    "name": "NPS",
+    "category": "government",
+    "official_domains": ["npscra.nsdl.co.in"],
+    "status": "verified",
+    "todo": "verify npscra.nsdl.co.in domain"
+  },
+  {
+    "name": "Paytm",
+    "category": "upi",
+    "official_domains": ["paytm.com"],
+    "status": "verified"
+  },
+  {
+    "name": "PhonePe",
+    "category": "upi",
+    "official_domains": ["phonepe.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Google Pay",
+    "category": "upi",
+    "official_domains": ["pay.google.com"],
+    "status": "verified"
+  },
+  {
+    "name": "BHIM",
+    "category": "upi",
+    "official_domains": ["bhimupi.org.in"],
+    "status": "verified",
+    "todo": "verify bhimupi.org.in domain"
+  },
+  {
+    "name": "Amazon Pay",
+    "category": "wallet",
+    "official_domains": ["amazon.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Mobikwik",
+    "category": "wallet",
+    "official_domains": ["mobikwik.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Freecharge",
+    "category": "wallet",
+    "official_domains": ["freecharge.in"],
+    "status": "verified"
+  },
+  {
+    "name": "Cred",
+    "category": "wallet",
+    "official_domains": ["cred.club"],
+    "status": "verified"
+  },
+  {
+    "name": "Razorpay",
+    "category": "upi",
+    "official_domains": ["razorpay.com"],
+    "status": "verified"
+  },
+  {
+    "name": "PayU",
+    "category": "upi",
+    "official_domains": ["payu.in"],
+    "status": "verified"
+  },
+  {
+    "name": "LIC",
+    "category": "other",
+    "official_domains": ["licindia.in"],
+    "status": "verified"
+  },
+  {
+    "name": "NSDL",
+    "category": "other",
+    "official_domains": ["nsdl.co.in"],
+    "status": "verified"
+  },
+  {
+    "name": "CDSL",
+    "category": "other",
+    "official_domains": ["cdslindia.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Zerodha",
+    "category": "other",
+    "official_domains": ["zerodha.com"],
+    "status": "verified"
+  },
+  {
+    "name": "Groww",
+    "category": "other",
+    "official_domains": ["groww.in"],
+    "status": "verified"
+  }
+]
